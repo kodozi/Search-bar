@@ -1,0 +1,6 @@
+{
+  "name": "Search Portal",
+  "description": "A simple, minimalist search portal and resources directory with interactive tags, grid/list layouts, and favorites tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
